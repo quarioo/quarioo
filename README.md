@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning data science
+- 😄 Pronouns: he/him
+- ⚡ The quick brown fox jump over the lazy dog
 <!--
 **quarioo/quarioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
